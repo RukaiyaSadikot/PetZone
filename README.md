@@ -183,8 +183,9 @@ petzone-app/
 
 | | |
 |---|---|
-| 🔗 Live Demo | [Pet Zone Website](#) |
-| 🎥 Project Walkthrough | [Project Explanation](#) |
+| 🔗 Live Demo | [Pet Zone Website](https://petzone-rukaiya.netlify.app/) |
+| 🎥 Project Walkthrough | [Project Explanation](https://drive.google.com/file/d/1n7TCtSB01VjDmxGxxnJR7skw8K8wbRkZ/view?usp=sharing) |
+| 🎥 Project Explaination | [Project Explanation](#) |
 
 ---
 
@@ -192,7 +193,6 @@ petzone-app/
 
 **Rukaiya Sadikot**
 
-[![GitHub](https://img.shields.io/badge/GitHub-yourusername-181717?style=for-the-badge&logo=github)](https://github.com/yourusername)
 
 ⭐ Thank you for visiting this repository!
 
